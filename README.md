@@ -84,6 +84,13 @@ assignment-submission-portal/
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
+
+## Layout of the final web-app 
+![Screenshot (729)](https://github.com/user-attachments/assets/f5c10e24-af9e-4e4a-8d8e-8fddec54e78c)
+
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
